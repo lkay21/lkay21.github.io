@@ -12,7 +12,7 @@ title: About
   <div style="text-align:center;">
     <p>
       I'm a Computer Engineering student at Purdue University passionate about
-      solving problems at the intersection of Software and Hardware.
+      solving problems at the intersection of Software and Hardware!
     </p>
   </div>
 </div>
