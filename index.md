@@ -18,9 +18,9 @@ title: Logan Kay
 <div style="min-height:calc(100vh - 200px); width:100%; background:#8d99ae; position:relative; margin-top:30px;">
   <img src="{{ 'work.png' | relative_url }}" style="position:absolute; top:20px; left:20px; width:450px; border:4px solid #2b2d42; z-index:2;">
   <div class ="button-containter" style="position:absolute; margin-left:750px; padding-top:20px; font-family:Arial, sans-serif; height: 90px">
-      <button style="position:absolute; left:-15px; top:8px;"> Hover over dis </button>
+      <button style="position:absolute; left:-100px; top:8px;"> Hover over dis </button>
       <button style="position:absolute; left:90px; top:12px;"> Hover over dis </button>
-      <button style="position:absolute; left:180px; top:18px;"> Hover over dis </button>
+      <button style="position:absolute; left:-50px; top:18px;"> Hover over dis </button>
       <button style="position:absolute; left:260px; top:25px;"> Hover over dis </button>
       <button style="position:absolute; left:40px; top:60px;"> Hover over dis </button>
       <button style="position:absolute; left:120px; top:70px;"> Hover over dis </button>
@@ -33,6 +33,9 @@ title: Logan Kay
       <p>Introduction to Computer Communication Networks | Computer Network Systems | Applied Algorithms</p>
       <p>Data Structures | Operations Research - Optimization | Microprocessor Systems and Interfacing</p> -->
   </div>
+  <div style="marin-top:40px;">
+
+  <div>
 </div>
 
 
