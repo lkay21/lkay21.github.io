@@ -25,7 +25,7 @@ title: Logan Kay
 
   <div style="flex:1; background:#8d99ae; display:flex; align-items:center; padding:40px; box-sizing:border-box; overflow:hidden; gap:40px;">
     <div style="flex:1; display:flex; align-items:center; justify-content:center;">
-      <img src="{{ 'work.png' | relative_url }}" style="max-height:100%; max-width:100%; object-fit:contain; border:4px solid #2b2d42; display:block;">
+      <img src="{{ 'Headshot.JPG' | relative_url }}" style="max-height:100%; max-width:100%; object-fit:contain; border:4px solid #2b2d42; display:block;">
     </div>
     
     <div style="flex:1; display:flex; flex-direction:column; align-items:center; justify-content:center; gap:32px;">
