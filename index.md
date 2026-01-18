@@ -16,12 +16,14 @@ title: Logan Kay
 </div>
 
 
-<div style="min-height:calc(100vh - 200px); width:100%; background:#8d99ae; margin-top:30px; display:flex; align-items:flex-start; gap:40px; padding:40px 0 40px 0; flex-wrap:wrap;">
-  <img src="{{ 'work.png' | relative_url }}" style="width:320px; max-width:100%; border:4px solid #2b2d42; z-index:2; flex-shrink:0;">
-  <div style="display:flex; flex-direction:column; justify-content:center; align-items:flex-start; gap:24px; min-width:180px; width:100%; max-width:260px;">
-    <button style="width:100%; min-width:120px; padding:12px 0; font-size:1.1rem;">Github</button>
-    <button style="width:100%; min-width:120px; padding:12px 0; font-size:1.1rem;">LinkedIN</button>
-    <button style="width:100%; min-width:120px; padding:12px 0; font-size:1.1rem;">Resume</button>
+<div style="height:100vh; width:100vw; background:#8d99ae; margin:0; padding:0; display:flex; align-items:stretch; justify-content:stretch;">
+  <div style="flex:1; display:flex; align-items:center; justify-content:center; min-width:0;">
+    <img src="{{ 'work.png' | relative_url }}" style="height:100%; width:100%; object-fit:cover; border:4px solid #2b2d42; max-width:100%; max-height:100%; display:block;">
+  </div>
+  <div style="flex:1; display:flex; flex-direction:column; justify-content:center; align-items:center; gap:32px; min-width:0; background:#8d99ae;">
+    <button style="width:60%; min-width:140px; max-width:320px; padding:18px 0; font-size:1.2rem;">Github</button>
+    <button style="width:60%; min-width:140px; max-width:320px; padding:18px 0; font-size:1.2rem;">LinkedIN</button>
+    <button style="width:60%; min-width:140px; max-width:320px; padding:18px 0; font-size:1.2rem;">Resume</button>
   </div>
 </div>
 
