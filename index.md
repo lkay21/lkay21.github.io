@@ -16,8 +16,8 @@ title: Logan Kay
 </div>
 
 <div style="min-height:calc(100vh - 200px); width:100%; background:#8d99ae; position:relative; margin-top:30px;">
-  <img src="{{ 'work.png' | relative_url }}" style="position:relative; top:20px; left:20px; width:450px; border:4px solid #2b2d42; z-index:2;">
-  <div class ="button-containter" style="position:relative; margin-left:750px; padding-top:20px; font-family:Arial, sans-serif; height: 100px">
+  <img src="{{ 'work.png' | relative_url }}" style="position:absolute; top:20px; left:20px; width:450px; border:4px solid #2b2d42; z-index:2;">
+  <div class ="button-containter" style="position:absolute; margin-left:750px; padding-top:20px; font-family:Arial, sans-serif; height: 100px">
       <button style="position:absolute; left:12px; top:18px;"> Hover over dis </button>
       <button style="position:absolute; left:85px; top:60px;"> Hover over dis </button>
       <button style="position:absolute; left:40px; top:20px;"> Hover over dis </button>
