@@ -23,12 +23,13 @@ title: Logan Kay
     </div>
   </div>
 
-  <div style="flex:1; background:#8d99ae; display:flex; align-items:center; width:100%; min-height:0; overflow:hidden; padding:20px; box-sizing:border-box;">
-    <img src="{{ 'work.png' | relative_url }}" style="max-height:75%; width:auto; flex-shrink:0; border:4px solid #2b2d42; display:block; margin-right:40px; transform: translateY(-6%);">
-    <div style="flex:1; display:flex; flex-direction:column; justify-content:center; align-items:center; gap:32px;">
-      <button style="width:60%; min-width:140px; max-width:320px; padding:18px 0; font-size:1.2rem;">Github</button>
-      <button style="width:60%; min-width:140px; max-width:320px; padding:18px 0; font-size:1.2rem;">LinkedIn</button>
-      <button style="width:60%; min-width:140px; max-width:320px; padding:18px 0; font-size:1.2rem;">Resume</button>
+  <div style="flex:1; background:#8d99ae; display:flex; flex-direction:column; align-items:center; justify-content:center; gap:32px; padding:40px; box-sizing:border-box; overflow:hidden;">
+    <img src="{{ 'work.png' | relative_url }}" style="max-height:60%; max-width:90%; object-fit:contain; border:4px solid #2b2d42; display:block;">
+    
+    <div style="display:flex; gap:24px; flex-wrap:wrap; justify-content:center;">
+      <button style="min-width:140px; padding:18px 32px; font-size:1.2rem;">Github</button>
+      <button style="min-width:140px; padding:18px 32px; font-size:1.2rem;">LinkedIn</button>
+      <button style="min-width:140px; padding:18px 32px; font-size:1.2rem;">Resume</button>
     </div>
   </div>
 </div>
