@@ -23,16 +23,19 @@ title: Logan Kay
     </div>
   </div>
 
-  <div style="flex:1; background:#8d99ae; display:flex; flex-direction:column; align-items:center; justify-content:center; gap:32px; padding:40px; box-sizing:border-box; overflow:hidden;">
-    <div style="display:flex; gap:24px; align-items:center; justify-content:center; max-height:60%; width:100%;">
-      <img src="{{ 'Headshot.JPG' | relative_url }}" style="max-height:100%; max-width:45%; object-fit:contain; border:4px solid #2b2d42; display:block;">
-      <img src="{{ 'work.png' | relative_url }}" style="max-height:100%; max-width:45%; object-fit:contain; border:4px solid #2b2d42; display:block;">
+  <div style="flex:1; background:#8d99ae; display:flex; align-items:center; padding:40px; box-sizing:border-box; overflow:hidden; gap:40px;">
+    <div style="flex:1; display:flex; align-items:center; justify-content:center;">
+      <img src="{{ 'work.png' | relative_url }}" style="max-height:100%; max-width:100%; object-fit:contain; border:4px solid #2b2d42; display:block;">
     </div>
     
-    <div style="display:flex; gap:24px; flex-wrap:wrap; justify-content:center;">
-      <button style="min-width:140px; padding:18px 32px; font-size:1.2rem;">Github</button>
-      <button style="min-width:140px; padding:18px 32px; font-size:1.2rem;">LinkedIn</button>
-      <button style="min-width:140px; padding:18px 32px; font-size:1.2rem;">Resume</button>
+    <div style="flex:1; display:flex; flex-direction:column; align-items:center; justify-content:center; gap:32px;">
+      <img src="{{ 'work.png' | relative_url }}" style="max-height:60%; max-width:100%; object-fit:contain; border:4px solid #2b2d42; display:block;">
+      
+      <div style="display:flex; gap:24px; flex-wrap:wrap; justify-content:center;">
+        <button style="min-width:140px; padding:18px 32px; font-size:1.2rem;">Github</button>
+        <button style="min-width:140px; padding:18px 32px; font-size:1.2rem;">LinkedIn</button>
+        <button style="min-width:140px; padding:18px 32px; font-size:1.2rem;">Resume</button>
+      </div>
     </div>
   </div>
 </div>
