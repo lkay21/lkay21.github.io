@@ -24,7 +24,7 @@ title: Logan Kay
   </div>
 
   <div style="flex:1; background:#8d99ae; display:flex; align-items:center; width:100%; min-height:0; overflow:hidden; padding:20px; box-sizing:border-box;">
-    <img src="{{ 'work.png' | relative_url }}" style="max-height:100%; max-width:50%; object-fit:contain; border:4px solid #2b2d42; display:block; margin-right:20px;">
+    <img src="{{ 'work.png' | relative_url }}" style="max-height:50%; max-width:50%; object-fit:contain; border:4px solid #2b2d42; display:block; margin-right:20px;">
     <div style="flex:1; display:flex; flex-direction:column; justify-content:center; align-items:center; gap:32px;">
       <button style="width:60%; min-width:140px; max-width:320px; padding:18px 0; font-size:1.2rem;">Github</button>
       <button style="width:60%; min-width:140px; max-width:320px; padding:18px 0; font-size:1.2rem;">LinkedIn</button>
