@@ -15,18 +15,14 @@ title: Logan Kay
   </div>
 </div>
 
-<div style="min-height:calc(100vh - 200px); width:100%; background:#8d99ae; position:relative; margin-top:30px;">
-  <img src="{{ 'work.png' | relative_url }}" style="position:absolute; top:20px; left:20px; width:450px; border:4px solid #2b2d42; z-index:2;">
-      <!-- <p>Software Engineering | Software Engineering Tools | Software for Embedded Systems</p>    
-      <p>Introduction to Artificial Intelligence | Natural Language Processing | Python for Data Science</p>
-      <p>Probalisitic Methods | Signals and Systems </p>
-      <p>Introduction to Computer Communication Networks | Computer Network Systems | Applied Algorithms</p>
-      <p>Data Structures | Operations Research - Optimization | Microprocessor Systems and Interfacing</p> -->
-  <div style="display:flex; justify-content:center; align-items:center; height:400px;">
-    <button>Github</button>
-    <button>LinkedIN</button>
-    <button>Resume</button>
-  <div>
+
+<div style="min-height:calc(100vh - 200px); width:100%; background:#8d99ae; margin-top:30px; display:flex; align-items:flex-start; gap:40px; padding:40px 0 40px 0; flex-wrap:wrap;">
+  <img src="{{ 'work.png' | relative_url }}" style="width:320px; max-width:100%; border:4px solid #2b2d42; z-index:2; flex-shrink:0;">
+  <div style="display:flex; flex-direction:column; justify-content:center; align-items:flex-start; gap:24px; min-width:180px; width:100%; max-width:260px;">
+    <button style="width:100%; min-width:120px; padding:12px 0; font-size:1.1rem;">Github</button>
+    <button style="width:100%; min-width:120px; padding:12px 0; font-size:1.1rem;">LinkedIN</button>
+    <button style="width:100%; min-width:120px; padding:12px 0; font-size:1.1rem;">Resume</button>
+  </div>
 </div>
 
 
