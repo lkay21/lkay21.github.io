@@ -55,7 +55,7 @@ title: Logan Kay
       </div>
     </div>
     <div style="position:absolute; bottom:10px; right:20px; font-size:0.9rem;">
-    Note: Hover over each button to see my key skills!
+      Hover over each button to see my key skills!
     </div>
   </div>
 </div>
