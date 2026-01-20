@@ -29,29 +29,29 @@ title: Logan Kay
     </div>
     <div style="display:flex; flex-direction:column; flex:1; gap:32px;">
       <div style="display: flex; justify-content: flex-end;" class="button-container">
-        <button title = "learnings" >Introduction to Artificial Intelligence</button>
-        <button>Natural Language Processing</button>
-        <button>Python for Data Science</button>
+        <button title = "placeholder" >Introduction to Artificial Intelligence</button>
+        <button title = "placeholder">Natural Language Processing</button>
+        <button title = "placeholder">Python for Data Science</button>
       </div>
       <div style="display: flex; justify-content: flex-end;" class="button-container">
-        <button>Probabilistic Methods</button>
-        <button>Signals and Systems</button>
-        <button>Object Oriented Programming With C++</button>
+        <button title = "placeholder">Probabilistic Methods</button>
+        <button title = "placeholder">Signals and Systems</button>
+        <button title = "placeholder">Object Oriented Programming With C++</button>
       </div>
       <div style="display: flex; justify-content: flex-end;" class="button-container">
-        <button>Data Structures</button>
-        <button>Operations Research - Optimization</button>
-        <button>Microprocessor Systems and Interfacing</button>
+        <button title = "placeholder">Data Structures</button>
+        <button title = "placeholder">Operations Research - Optimization</button>
+        <button title = "placeholder">Microprocessor Systems and Interfacing</button>
       </div>
       <div style="display: flex; justify-content: flex-end;" class="button-container">
-        <button>Introduction to Computer Communication Networks</button>
-        <button>Computer Network Systems</button>
-        <button>Applied Algorithms</button>
+        <button title = "placeholder">Introduction to Computer Communication Networks</button>
+        <button title = "placeholder">Computer Network Systems</button>
+        <button title = "placeholder">Applied Algorithms</button>
       </div>
       <div style="display: flex; justify-content: flex-end;" class="button-container">
-        <button>Software Engineering</button>
-        <button>Software For Embedded Systems</button>
-        <button>Software Engineering Tools</button>
+        <button title = "placeholder">Software Engineering</button>
+        <button title = "placeholder">Software For Embedded Systems</button>
+        <button title = "placeholder">Software Engineering Tools</button>
       </div>
     </div>
   </div>
