@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-<div style="display:flex; align-items:flex-start; margin:60px auto 20px auto; max-width:900px; padding-left:30px; background:#edf2f4;">
+<div style="display:flex; align-items:flex-start; margin:60px auto 20px auto; max-width:900px; padding-left:30px; background-color: #2b2d42;">
   <img src="{{ 'Headshot.JPG' | relative_url }}"
        width="315"
        style="border:4px solid #000000; margin-right:20px">
@@ -18,7 +18,7 @@ title: About
       After graduation I hope to utilize this skillset in a role that focuses on firmware engineering but yields opportunity to use and grow my knowledge in hardware and software engineering. 
     </p>
     <p>
-      Outside of academics and engineering, I enjoy staying active through weightlifiting and sports. I played tennis in high school and currently play for the Purdue Club Tennis Travel Team, making it my usual sport, though I also love playing basketball whenever I can. Music is another constant in my life, no matter what I am doing, there is a very high chance that i am listening to music while doing it. I love listening to all type of genres but Alternaive Rock, RnB, and Hip Hop are my main staples. 
+      Outside of academics and engineering, I enjoy staying active through weightlifiting and sports. I played tennis in high school and currently play for the Purdue Club Tennis Travel Team, making it my usual sport, though I also love playing basketball whenever I can. Music is another constant in my life, no matter what I am doing, there is a very high chance that I am listening to music while doing it. I love listening to all type of genres but Alternaive Rock, RnB, and Hip Hop are my main staples. 
     </p>
     <p>
       Click a button below to download my resume or explore my relevant sites!
