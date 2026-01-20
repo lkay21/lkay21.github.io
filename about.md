@@ -10,6 +10,7 @@ title: About
 
 
   <div style="text-align:center;">
+    <br>
     <p>
       Currently, I am in my final year Purdue, pursuing my B.S. in Computer Engineering with concentrations in Software Engineering and Artificial Intelligence/Machine Learning, along with a minor in Economics. In my years at Purdue, I have gained industry expereince through multiple internships, one as a Hardware Engineering Intern, and another as a Firmware Engineering Intern. These experiences, paired with my diverse skillset cultivated through my Purdue courses have allowed me to develop a strong goundation across hardware to software. 
     </p>
@@ -18,6 +19,8 @@ title: About
     </p>
     <p>
       Outside of academics and engineering, I enjoy staying active through weightlifiting and sports. I played tennis in high school and currently play for the Purdue Club Tennis Travel Team, making it my usual sport, though I also love playing basketball whenever I can. Music is another constant in my life, no matter what I am doing, there is a very high chance that i am listening to music while doing it. I love listening to all type of genres but Alternaive Rock, RnB, and Hip Hop are my main staples. 
+    </p>
+    <p>
       Click a button below to download my resume or explore my relevant sites!
     </p>
     <br>
