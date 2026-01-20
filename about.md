@@ -20,6 +20,8 @@ title: About
       Outside of academics and engineering, I enjoy staying active through weightlifiting and sports. I played tennis in high school and currently play for the Purdue Club Tennis Travel Team, making it my usual sport, though I also love playing basketball whenever I can. Music is another constant in my life, no matter what I am doing, there is a very high chance that i am listening to music while doing it. I love listening to all type of genres but Alternaive Rock, RnB, and Hip Hop are my main staples. 
       Click a button below to download my resume or explore my relevant sites!
     </p>
+    <br>
+    <br>
     <div style="display: flex; justify-content: center;" class="button-container">
         <a href="Resume_LoganKay_Soft.pdf" download="LoganKay_Resume">Resume</a>
         <a href="https://www.linkedin.com/in/logan-kay29/">LinkedIn</a>
