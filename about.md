@@ -15,6 +15,7 @@ title: About
       solving problems at the intersection of Software and Hardware!
     </p>
     <div style="display: flex; justify-content: center;" class="button-container">
+        <a href="Resume_LoganKay_Soft.pdf" download="LoganKay_Resume">Resume</a>
         <button>LinkedIn</button>
         <button>GitHub</button>
         <button>Resume</button>
