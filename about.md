@@ -24,7 +24,6 @@ title: About
       Click a button below to download my resume or explore my relevant sites!
     </p>
     <br>
-    <br>
     <div style="display: flex; justify-content: center;" class="button-container">
         <a href="Resume_LoganKay_Soft.pdf" download="LoganKay_Resume">Resume</a>
         <a href="https://www.linkedin.com/in/logan-kay29/">LinkedIn</a>
