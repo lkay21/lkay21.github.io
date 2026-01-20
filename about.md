@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-<div style="display:flex; align-items:flex-start; margin:60px auto 20px auto; max-width:900px; padding-left:30px;">
+<div style="display:flex; align-items:flex-start; margin:60px auto 20px auto; max-width:900px; padding-left:30px; background:#edf2f4;">
   <img src="{{ 'Headshot.JPG' | relative_url }}"
        width="315"
        style="border:4px solid #000000; margin-right:20px">
