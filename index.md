@@ -23,7 +23,7 @@ title: Logan Kay
     </div>
   </div>
 
-  <div style="flex:1; display:flex; flex-direction:column; align-items:center; justify-content:center; gap:32px; padding:40px; box-sizing:border-box; overflow:hidden; background-image: url('work.png'); background-size: cover; background-position: center;">
+  <div style="flex:1; display:flex; flex-direction:column; align-items:center; justify-content:center; gap:32px; padding:40px; box-sizing:border-box; overflow:hidden; background-image: url('work.png'); background-size: 80%; background-position: center;">
     <div class="button-container">
       <button>Github</button>
       <button>LinkedIn</button>
