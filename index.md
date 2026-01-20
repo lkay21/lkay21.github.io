@@ -18,7 +18,7 @@ title: Logan Kay
         <h1 style="margin:0 0 8px 0;">Hello, I'm Logan Kay!</h1>
         <p style="margin:0;">
           I'm a Computer Engineering student at Purdue University passionate about
-          solving problems at the intersection of Software and Hardware! Hover over key courses to see my top skills!
+          solving problems at the intersection of Software and Hardware!
         </p>
       </div>
   </div>
