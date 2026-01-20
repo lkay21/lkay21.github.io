@@ -29,7 +29,7 @@ title: Logan Kay
     </div>
     <div style="display:flex; flex-direction:column; flex:1; gap:32px;">
       <div style="display: flex; justify-content: flex-end;" class="button-container">
-        <button title = "placeholder" >Introduction to Artificial Intelligence</button>
+        <button title = "Neural Nets, Reinforcement Learning, Language Processing Basics, Markov Decision Processes" >Introduction to Artificial Intelligence</button>
         <button title = "placeholder">Natural Language Processing</button>
         <button title = "placeholder">Python for Data Science</button>
       </div>
