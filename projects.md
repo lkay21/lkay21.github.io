@@ -8,9 +8,10 @@ title: Projects
 <div class="table-container">
     <table>
         <tr>
-            <th>Company</th>
-            <th>Contact</th>
-            <th>Country</th>
+            <th>Project</th>
+            <th>Class/Role</th>
+            <th>Summary</th>
+            <th>Tech Stack</th>
         </tr>
         <tr>
             <td>Alfreds Futterkiste</td>
