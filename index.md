@@ -23,27 +23,31 @@ title: Logan Kay
     </div>
   </div>
 
-  <div style="flex:1; display:flex; flex-direction:column; justify-content:center; gap:32px; padding:40px; box-sizing:border-box; overflow:hidden; background-image: url('work.png'); background-size: 60%; background-position: left; background-repeat: no-repeat; background-color: #8d99ae;">
-    <div style="display: flex; justify-content: flex-end;" class="button-container">
-      <button>Introduction to Artificial Intelligence</button>
-      <button>Natural Language Processing</button>
-      <button>Python for Data Science</button>
+  <div style="flex:1; display:flex; flex-direction:column; justify-content: flex-start; gap:32px; padding:40px; box-sizing:border-box; overflow:hidden; background-color: #8d99ae;">
+    <div style="flex-shrink:0;">
+      <img src="{{ 'work.png' | relative_url }}" style="max-height:75vh; max-width:350px; object-fit:contain; border:4px solid #2b2d42; display:block;">
     </div>
-    <div style="display: flex; justify-content: flex-end;" class="button-container">
-      <button>Probalisitic Methods</button>
-      <button>Signals and Systems</button>
+    <div style="display:flex; flex-direction:column; flex:1 gap:32px;">
+
+      <div style="display: flex; justify-content: flex-end;" class="button-container">
+        <button>Introduction to Artificial Intelligence</button>
+        <button>Natural Language Processing</button>
+        <button>Python for Data Science</button>
+      </div>
+      <div style="display: flex; justify-content: flex-end;" class="button-container">
+        <button>Probalisitic Methods</button>
+        <button>Signals and Systems</button>
+      </div>
+      <div style="display: flex; justify-content: flex-end;" class="button-container">
+        <button>Introduction to Computer Communication Networks</button>
+        <button>Computer Network Systems</button>
+        <button>Applied Algorithms</button>
+      </div>
+      <div style="display: flex; justify-content: flex-end;" class="button-container">
+        <button>Data Structures</button>
+        <button>Operations Research - Optimization</button>
+        <button>Microprocessor Systems and Interfacing</button>
+      </div>
     </div>
-    <div style="display: flex; justify-content: flex-end;" class="button-container">
-      <button>Introduction to Computer Communication Networks</button>
-      <button>Computer Network Systems</button>
-      <button>Applied Algorithms</button>
-    </div>
-    <div style="display: flex; justify-content: flex-end;" class="button-container">
-      <button>Data Structures</button>
-      <button>Operations Research - Optimization</button>
-      <button>Microprocessor Systems and Interfacing</button>
-    </div>
-    
-    <!-- <img src="{{ 'work.png' | relative_url }}" style="max-height:75%; max-width:98%; object-fit:contain; border:4px solid #2b2d42; display:block;"> -->
   </div>
 </div>
