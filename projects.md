@@ -3,7 +3,7 @@ layout: page
 title: Projects
 ---
 
-<h1 style="margin:0 0 8px 0; text-align: center">Projects</h1>
+<h1 style="margin:0 0 8px 0; text-align: center; text-decoration: underline">Projects</h1>
 
 <div class="table-container">
     <hr>
