@@ -16,9 +16,8 @@ title: About
     </p>
     <div style="display: flex; justify-content: center;" class="button-container">
         <a href="Resume_LoganKay_Soft.pdf" download="LoganKay_Resume">Resume</a>
-        <button>LinkedIn</button>
-        <button>GitHub</button>
-        <button>Resume</button>
+        <a href="www.linkedin.com/in/logan-kay29">LinkedIn</a>
+        <a href="https://github.com/lkay21">GitHub</a>
     </div>
   </div>
 </div>
