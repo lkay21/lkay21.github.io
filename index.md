@@ -29,13 +29,13 @@ title: Logan Kay
     </div>
     <div style="display:flex; flex-direction:column; flex:1; gap:32px;">
       <div style="display: flex; justify-content: flex-end;" class="button-container">
-        <button title = "Neural Nets, Reinforcement Learning, Language Processing Basics, Markov Decision Processes" >Introduction to Artificial Intelligence</button>
-        <button title = "placeholder">Natural Language Processing</button>
-        <button title = "placeholder">Python for Data Science</button>
+        <button title = "Neural Nets, Reinforcement Learning, Language Processing Basics, Markov Decision Processes, Classification" >Introduction to Artificial Intelligence</button>
+        <button title = "LLMs">Natural Language Processing</button>
+        <button title = "OOP, kNNs, PyTorch, RegEx, Probability Dist.">Python for Data Science</button>
       </div>
       <div style="display: flex; justify-content: flex-end;" class="button-container">
-        <button title = "placeholder">Probabilistic Methods</button>
-        <button title = "placeholder">Signals and Systems</button>
+        <button title = "Single and Multiple Random Variable Understanding, Application, and Analysis, Estimation, Set Theory">Probabilistic Methods</button>
+        <button title = "Fourier Series & Transforms, Convolution, Laplace Transform, Impulse Response">Signals and Systems</button>
         <button title = "placeholder">Object Oriented Programming With C++</button>
       </div>
       <div style="display: flex; justify-content: flex-end;" class="button-container">
