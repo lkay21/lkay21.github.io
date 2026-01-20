@@ -54,7 +54,7 @@ title: Logan Kay
         <button title = "Web Design, Bash, Version Control, Cloud Computing, Project Management, Software Testing, Software Deployment">Software Engineering Tools</button>
       </div>
     </div>
-    <div style="position:absolute; bottom:10px; right:20px; background:#fff5d7; padding:6px 14px; border-radius:6px; font-size:0.9rem; box-shadow:0 2px 8px rgba(0,0,0,0.08);">
+    <div style="position:absolute; bottom:10px; right:20px; font-size:0.9rem;">
     Note: Hover over each button to see my key skills!
     </div>
   </div>
