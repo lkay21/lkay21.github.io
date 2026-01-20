@@ -65,4 +65,8 @@ nav a:hover {
     border-radius: 8px;
 }
 
+.button-container {
+  display: flex;
+  gap: 10px; /* optional: adds space between buttons */
+}
 
