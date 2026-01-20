@@ -71,8 +71,9 @@ nav a:hover {
 }
 
 .button-container button{
-  background: #2b2d42;
-  color: #fff;
+  background: #fff;
+  color: #0000;
+  border: 2px solid #2b2d42;
   border: none;
   font-size: 0.5rem;
   font-family: Arial, sans-serif;
