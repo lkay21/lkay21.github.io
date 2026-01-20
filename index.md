@@ -34,8 +34,14 @@ title: Logan Kay
         <button>Python for Data Science</button>
       </div>
       <div style="display: flex; justify-content: flex-end;" class="button-container">
-        <button>Probalisitic Methods</button>
+        <button>Probabilistic Methods</button>
         <button>Signals and Systems</button>
+        <button>Object Oriented Programming With C++</button>
+      </div>
+      <div style="display: flex; justify-content: flex-end;" class="button-container">
+        <button>Data Structures</button>
+        <button>Operations Research - Optimization</button>
+        <button>Microprocessor Systems and Interfacing</button>
       </div>
       <div style="display: flex; justify-content: flex-end;" class="button-container">
         <button>Introduction to Computer Communication Networks</button>
@@ -43,9 +49,9 @@ title: Logan Kay
         <button>Applied Algorithms</button>
       </div>
       <div style="display: flex; justify-content: flex-end;" class="button-container">
-        <button>Data Structures</button>
-        <button>Operations Research - Optimization</button>
-        <button>Microprocessor Systems and Interfacing</button>
+        <button>Software Engineering</button>
+        <button>Software For Embedded Systems</button>
+        <button>Software Engineering Tools</button>
       </div>
     </div>
   </div>
