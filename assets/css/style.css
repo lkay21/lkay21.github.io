@@ -74,8 +74,6 @@ nav a:hover {
   background: #2b2d42;
   color: #fff;
   border: none;
-  padding: 10px 18px;
-  border-radius: 6px;
   font-size: 1rem;
   cursor: pointer;
   transition: background 0.2s;
