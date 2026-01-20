@@ -9,7 +9,7 @@ title: About
        style="border:4px solid #000000; margin-right:20px">
 
 
-  <div style="text-align:center; background-color: #8d99ae;">
+  <div style="text-align:center;">
     <br>
     <p>
       Currently, I am in my final year Purdue, pursuing my B.S. in Computer Engineering with concentrations in Software Engineering and Artificial Intelligence/Machine Learning, along with a minor in Economics. In my years at Purdue, I have gained industry expereince through multiple internships, one as a Hardware Engineering Intern, and another as a Firmware Engineering Intern. These experiences, paired with my diverse skillset cultivated through my Purdue courses have allowed me to develop a strong goundation across hardware to software. 
