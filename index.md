@@ -44,12 +44,12 @@ title: Logan Kay
         <button title = "Embedded C, Assembly, I2C, SPI, UART, DAC/ADC, GPIO, Timers, Interrupts">Microprocessor Systems and Interfacing</button>
       </div>
       <div style="display: flex; justify-content: flex-end;" class="button-container">
-        <button title = "Queueing Theory, Internet Architecture, Network Routing Fund., TCP Congestion Control, Multiacess Communication">Introduction to Computer Communication Networks</button>
+        <button title = "Queueing Theory, Internet Architecture, Network Routing Fund., TCP Congestion Control, Multiaccess Communication">Introduction to Computer Communication Networks</button>
         <button title = "Internet Architecture and Interaction Software Application">Computer Network Systems</button>
         <button title = "Greedy Algorithms, Dynamic Programming, Flow Network Algorithms, Advanced Graph Algorithms">Applied Algorithms</button>
       </div>
       <div style="display: flex; justify-content: flex-end;" class="button-container">
-        <button title = "AWS(EC2/ECS, DynamoDB, S3), Logging, PyTest, Requirements Engineering, LLM Integration, LLM Agent Dev.">Software Engineering</button>
+        <button title = "AWS(EC2/ECS, DynamoDB, S3), Logging, PyTest, Requirements Engineering, LLM Integration, LLM Agent Dev., Docker">Software Engineering</button>
         <button title = "MicroPython, RTOS, Socket Programming, Software for Networked and Distributed Embedded Systems, Embedded Software API interaction">Software For Embedded Systems</button>
         <button title = "Web Design, Bash, Version Control, Cloud Computing, Project Management, Software Testing, Software Deployment">Software Engineering Tools</button>
       </div>
