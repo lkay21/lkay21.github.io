@@ -106,12 +106,12 @@ nav a:hover {
 
 
 
-.table-container {
+.table-container table{
     width: 100%;
+    border-collapse: collapse;
+
 }
 
-.table-container table, th, td {
-    width: 100%;
+.table-container th, td {
     border: 1px solid black;
-    border-collapse: collapse;
 }
