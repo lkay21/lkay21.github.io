@@ -36,22 +36,22 @@ title: Logan Kay
       <div style="display: flex; justify-content: flex-end;" class="button-container">
         <button title = "Single and Multiple Random Variable Understanding, Application, and Analysis, Estimation, Set Theory">Probabilistic Methods</button>
         <button title = "Fourier Series & Transforms, Convolution, Laplace Transform, Impulse Response">Signals and Systems</button>
-        <button title = "placeholder">Object Oriented Programming With C++</button>
+        <button title = "Virtual/Non-Virtual Functions, Constructors/Destructors Types and Call Order, Multithreading, Inheritance, Hashing/Hash Tables">Object Oriented Programming With C++</button>
       </div>
       <div style="display: flex; justify-content: flex-end;" class="button-container">
-        <button title = "placeholder">Data Structures</button>
-        <button title = "placeholder">Operations Research - Optimization</button>
-        <button title = "placeholder">Microprocessor Systems and Interfacing</button>
+        <button title = "Stacks, Queues, Arrays, Pointers, Linked Lists, Binary Search Trees, Minimum Spanning Trees, Complexity Analysis, Graphs">Data Structures</button>
+        <button title = "Linear Programming, Network Flows, Integer Programming">Operations Research - Optimization</button>
+        <button title = "Embedded C, Assembly, I2C, SPI, UART, DAC/ADC, GPIO, Timers, Interrupts">Microprocessor Systems and Interfacing</button>
       </div>
       <div style="display: flex; justify-content: flex-end;" class="button-container">
-        <button title = "placeholder">Introduction to Computer Communication Networks</button>
-        <button title = "placeholder">Computer Network Systems</button>
-        <button title = "placeholder">Applied Algorithms</button>
+        <button title = "Queueing Theory, Internet Architecture, Network Routing Fund., TCP Congestion Control, Multiacess Communication">Introduction to Computer Communication Networks</button>
+        <button title = "Internet Architecture and Interaction Software Application">Computer Network Systems</button>
+        <button title = "Greedy Algorithms, Dynamic Programming, Flow Network Algorithms, Advanced Graph Algorithms">Applied Algorithms</button>
       </div>
       <div style="display: flex; justify-content: flex-end;" class="button-container">
-        <button title = "placeholder">Software Engineering</button>
-        <button title = "placeholder">Software For Embedded Systems</button>
-        <button title = "placeholder">Software Engineering Tools</button>
+        <button title = "AWS(EC2/ECS, DynamoDB, S3), Logging, PyTest, Requirements Engineering, LLM Integration, LLM Agent Dev.">Software Engineering</button>
+        <button title = "MicroPython, RTOS, Socket Programming, Software for Networked and Distributed Embedded Systems, Embedded Software API interaction">Software For Embedded Systems</button>
+        <button title = "Web Design, Bash, Version Control, Cloud Computing, Project Management, Software Testing, Software Deployment">Software Engineering Tools</button>
       </div>
     </div>
   </div>
