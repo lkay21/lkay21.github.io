@@ -23,17 +23,27 @@ title: Logan Kay
     </div>
   </div>
 
-  <div style="flex:1; display:flex; flex-direction:column; justify-content:center; gap:32px; padding:40px; box-sizing:border-box; overflow:hidden; background-image: url('work.png'); background-size: 50%; background-position: left; background-repeat: no-repeat; background-color: #8d99ae;">
+  <div style="flex:1; display:flex; flex-direction:column; justify-content:center; gap:32px; padding:40px; box-sizing:border-box; overflow:hidden; background-image: url('work.png'); background-size: 75%; background-position: left; background-repeat: no-repeat; background-color: #8d99ae;">
     <div style="display: flex; justify-content: flex-end;" class="button-container">
-      <button>Github</button>
-      <button>LinkedIn</button>
-      <button>Resume</button>
+      <button>Introduction to Artificial Intelligence</button>
+      <button>Natural Language Processing</button>
+      <button>Python for Data Science</button>
     </div>
     <div style="display: flex; justify-content: flex-end;" class="button-container">
-      <button>Github</button>
-      <button>LinkedIn</button>
-      <button>Resume</button>
+      <button>Probalisitic Methods</button>
+      <button>Signals and Systems</button>
     </div>
+    <div style="display: flex; justify-content: flex-end;" class="button-container">
+      <button>Introduction to Computer Communication Networks</button>
+      <button>Computer Network Systems</button>
+      <button>Applied Algorithms</button>
+    </div>
+    <div style="display: flex; justify-content: flex-end;" class="button-container">
+      <button>Data Structures</button>
+      <button>Operations Research - Optimization</button>
+      <button>Microprocessor Systems and Interfacing</button>
+    </div>
+    
     <!-- <img src="{{ 'work.png' | relative_url }}" style="max-height:75%; max-width:98%; object-fit:contain; border:4px solid #2b2d42; display:block;"> -->
   </div>
 </div>
