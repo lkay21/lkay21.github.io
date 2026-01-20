@@ -6,6 +6,7 @@ title: Projects
 ## projects
 
 <div class="table-container">
+    <hr>
     <table>
         <tr>
             <th>Project</th>
@@ -29,4 +30,5 @@ title: Projects
             <td>Mexico</td>
         </tr>
     </table>
+    <hr>
 </div>
