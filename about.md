@@ -14,5 +14,10 @@ title: About
       I'm a Computer Engineering student at Purdue University passionate about
       solving problems at the intersection of Software and Hardware!
     </p>
+    <div style="display: flex; justify-content: flex-end;" class="button-container">
+        <button>LinkedIn</button>
+        <button>GitHub</button>
+        <button>Resume</button>
+    </div>
   </div>
 </div>
