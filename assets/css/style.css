@@ -104,36 +104,8 @@ nav a:hover {
   color: #2b2d42;
 }
 
-html, body {
-    height: 100%; /* Ensure html and body take full height */
-    margin: 0;
-    padding: 0;
-}
+
 
 .table-container {
-    height: 100vh; /* Takes the full viewport height */
-    overflow-y: auto; /* Adds a vertical scrollbar if content overflows */
-    width: 100%; /* Spans the full page width */
-    box-sizing: border-box; /* Includes padding/border in the width calculation */
+    width: 100%;
 }
-
-table {
-    width: 100%; /* Ensures the table itself spans the container width */
-    border-collapse: collapse; /* Optional: for cleaner borders */
-}
-
-thead th {
-    position: sticky; /* Keeps the header fixed at the top while scrolling */
-    top: 0;
-    background-color: #f2f2f2; /* Add a background so content doesn't show through */
-    /* Add other styling for headers here */
-}
-
-/* Optional: Add styling for table cells */
-th, td {
-    padding: 8px;
-    text-align: left;
-    border-bottom: 1px solid #ddd;
-}
-
-
