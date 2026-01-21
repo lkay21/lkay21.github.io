@@ -16,19 +16,27 @@ title: Projects
             <th>Demo/Application</th>
         </tr>
         <tr>
-            <td>Alfreds Futterkiste</td>
-            <td>Maria Anders</td>
-            <td>Germany</td>
-            <td>Maria Anders</td>
-            <td>Germany</td>
+            <td>LLM and CV Hybrid Fitness Mobile App</td>
         </tr>
         <tr>
-            <td>Centro comercial Moctezuma</td>
-            <td>Francisco Chang</td>
-            <td>Mexico</td>
-            <td>Francisco Chang</td>
-            <td>Mexico</td>
+            <td>REST API for Pre-Trained Model Anlaysis</td>
         </tr>
+        <tr>
+            <td>Touch Keypad Proof-of-Concept</td>
+        </tr>
+        <tr>
+            <td>User Authentication Web Application</td>
+        </tr>
+        <tr>
+            <td>Object Oriented Chess Game in C++</td>
+        </tr>
+        <tr>
+            <td>"Precision Pulse" Embedded System Game</td>
+        </tr>
+        <tr>
+            <td>Wireless Debugging Board</td>
+        </tr>
+
     </table>
     <hr>
 </div>
