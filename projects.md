@@ -51,8 +51,14 @@ title: Projects
             <td>Global Emergency Autonomous Response Robot</td>
             <td>Honors Engineering - Introduction to Innovation</td>
         </tr>
+        <tr>
+            <td>Data Driven Bridge Analysis</td>
+            <td>Python for Data Science</td>
+        </tr>
+        <tr>
+            <td>Classification and Clustering Model Analysis</td>
+            <td>Python for Data Science</td>
+        </tr>
     </table>
     <hr>
 </div>
-
-<!-- Smog Tower (162), KNN (20875) -->
