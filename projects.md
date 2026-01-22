@@ -17,26 +17,40 @@ title: Projects
         </tr>
         <tr>
             <td>LLM and CV Hybrid Fitness Mobile App</td>
+            <td>Senior Design</td>
         </tr>
         <tr>
             <td>REST API for Pre-Trained Model Anlaysis</td>
+            <td>Software Engineering</td>
         </tr>
         <tr>
             <td>Touch Keypad Proof-of-Concept</td>
+            <td>Firmware Engineering Intern (Allegion)</td>
         </tr>
         <tr>
             <td>User Authentication Web Application</td>
+            <td>Software Engineering Tool</td>
         </tr>
         <tr>
-            <td>Object Oriented Chess Game in C++</td>
+            <td>Chess Game in C++</td>
+            <td>Object Oriented Programming</td>
         </tr>
         <tr>
             <td>"Precision Pulse" Embedded System Game</td>
+            <td>Microprocessor Systems and Interfacing</td>
         </tr>
         <tr>
             <td>Wireless Debugging Board</td>
+            <td>Hardware Engineering Intern</td>
         </tr>
-
+        <tr>
+            <td>Audio Equalizer?</td>
+            <td>Electrical Engineering Fundamentals</td>
+        </tr>
+        <tr>
+            <td>Global Emergency Autonomous Response Robot</td>
+            <td>Honors Engineering - Introduction to Innovation</td>
+        </tr>
     </table>
     <hr>
 </div>
