@@ -139,3 +139,14 @@ nav a:hover {
   margin-left: 32px;
   width: calc(100% - 32px);
 }
+
+@media (min-width: 1200px) {
+  .button-container button,
+  .button-container a {
+    font-size: 1.1rem;
+    padding: 18px 32px;
+  }
+  .button-container {
+    gap: 24px;
+  }
+}
