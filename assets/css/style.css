@@ -125,3 +125,8 @@ nav a:hover {
 .blog hr {
   margin: 0;
 }
+
+.indent {
+  margin-left: 32px;
+  width: calc(100% - 32px);
+}
