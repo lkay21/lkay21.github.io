@@ -64,7 +64,8 @@ title: Projects
 </div>
 
 <div class = "blog">
-    <h2>Happenings</h2>
+    <h1 style = "margin:0 0 8px 0; text-decoration: underline">Happenings</h1>
+    <!-- Repeat Below -->
     <article>
         <h3>Hello World</h3>
         <p>first Post!</p>
