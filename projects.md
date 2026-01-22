@@ -64,9 +64,9 @@ title: Projects
 </div>
 
 <div class = "blog">
-    <h3>Happenings</h3>
+    <h2>Happenings</h2>
     <article>
-        <h2>Hello World</h2>
+        <h3>Hello World</h3>
         <p>first Post!</p>
     </article>
 </div>
