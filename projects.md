@@ -62,3 +62,11 @@ title: Projects
     </table>
     <hr>
 </div>
+
+<div class = "blog">
+    <h3>Happenings</h3>
+    <article>
+        <h2>Hello World</h2>
+        <p>first Post!</p>
+    </article>
+</div>
