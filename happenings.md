@@ -9,6 +9,7 @@ title: Happenings
     <h3>2026</h3>
     <hr>
     <ul>
+        <li>Web Portfolio is Almost Ready!</li>
         <li>Hello World!</li>
     </ul>
 </div>
