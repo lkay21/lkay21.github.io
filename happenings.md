@@ -7,6 +7,7 @@ title: Happenings
     <h1 style="margin:0 0 8px 0; text-align: center; text-decoration: underline">Happenings</h1>
     <!-- Repeat Below -->
     <h3>2026</h3>
+    <hr>
     <ul>
         <li>Hello World!</li>
     </ul>
