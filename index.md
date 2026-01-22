@@ -25,7 +25,7 @@ title: Logan Kay
 
   <div style="flex:1; display:flex; flex-direction:row; justify-content: flex-start; align-items: flex-start; gap:32px; padding:40px; box-sizing:border-box; overflow:hidden; background-color: #8d99ae;">
     <div style="flex-shrink:0;">
-      <img src="{{ 'work.png' | relative_url }}" style="max-height:75vh; max-width:500px; object-fit:contain; border:6px solid #2b2d42; display:block;">
+      <img src="{{ 'work.png' | relative_url }}" class = "main-img" style="max-height:75vh; max-width:500px; object-fit:contain; border:6px solid #2b2d42; display:block;">
     </div>
     <div style="display:flex; flex-direction:column; flex:1; gap:32px;">
       <div style="display: flex; justify-content: flex-end;" class="button-container">

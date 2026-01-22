@@ -149,4 +149,8 @@ nav a:hover {
   .button-container {
     gap: 24px;
   }
+  .main-img {
+    max-width: 650px;
+    max-height: 90vh;
+  }
 }
