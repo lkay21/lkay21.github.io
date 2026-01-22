@@ -130,6 +130,11 @@ nav a:hover {
   margin-bottom: 0;
 }
 
+.blog ul {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
 .indent {
   margin-left: 32px;
   width: calc(100% - 32px);
