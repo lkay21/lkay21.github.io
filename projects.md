@@ -18,6 +18,7 @@ title: Projects
         <tr>
             <td>LLM and CV Hybrid Fitness Mobile App</td>
             <td>Senior Design</td>
+            <td>This is a test. I used a lot of different tech stack thingys on this project and was the main project manager. So how much text can actually fit here???</td>
         </tr>
         <tr>
             <td>REST API for Pre-Trained Model Anlaysis</td>
@@ -58,6 +59,14 @@ title: Projects
         <tr>
             <td>Classification and Clustering Model Analysis</td>
             <td>Python for Data Science</td>
+        </tr>
+        <tr>
+            <td>Voice Drive Autonomous Duckiebot</td>
+            <td>Natural Language Processing</td>
+        </tr>
+        <tr>
+            <td>Trump vs. Biden Debate Chatbot System</td>
+            <td>Natural Language Processing</td>
         </tr>
     </table>
     <hr>
