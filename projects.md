@@ -56,6 +56,9 @@ title: Projects
         <tr>
             <td>"Precision Pulse" Embedded System Game</td>
             <td>Microprocessor Systems and Interfacing</td>
+            <td>STM32 driven game where user would have to stop a moving "wave" of adjustable speed within an
+            increasingly harder area to increase score.</td>
+            <td>STM32, OLED, GPIO, ADC, Interrupts, I2C, C, DMA, EEPROM, LED Matrix</td>
         </tr>
         <tr>
             <td>Wireless Debugging Board</td>
