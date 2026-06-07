@@ -104,6 +104,11 @@ nav a:hover {
   color: #2b2d42;
 }
 
+.table-container {
+    overflow-x: auto;
+    width: 100%;
+}
+
 .table-container hr {
   border: none;
   border-top: 6px solid #8d99ae;
@@ -116,10 +121,15 @@ nav a:hover {
     margin:0;
     padding:0;
     text-align: center;
+    min-width: 800px;
 }
 
 .table-container th, td {
     border: 1px solid black;
+    max-width: 200px;     
+    word-wrap: break-word; 
+    padding: 8px;          
+    vertical-align: top;  
 }
 
 .blog hr {

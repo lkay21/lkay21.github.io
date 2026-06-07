@@ -12,13 +12,14 @@ title: Projects
             <th>Project</th>
             <th>Class/Role</th>
             <th>Summary</th>
-            <th>Tech Stack</th>
-            <th>Demo/Application</th>
+            <th>Key Technology</th>
         </tr>
         <tr>
             <td>LLM and CV Hybrid Fitness Mobile App</td>
             <td>Senior Design</td>
-            <td>This is a test. I used a lot of different tech stack thingys on this project and was the main project manager. So how much text can actually fit here???</td>
+            <td>Delivered a Fully Deployed Mobile Fitness App with LLM workout plan generation, standard
+            workout tracking, and video form feedback via CV pose estimation. </td>
+            <td>Python, OpenCV, OpenPose, Flask, Boto3, S3, ECS, NumPy, Matplotlib</td>
         </tr>
         <tr>
             <td>REST API for Pre-Trained Model Anlaysis</td>
