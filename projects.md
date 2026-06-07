@@ -17,13 +17,14 @@ title: Projects
         <tr>
             <td>LLM and CV Hybrid Fitness Mobile App</td>
             <td>Senior Design</td>
-            <td>Delivered a Fully Deployed Mobile Fitness App with LLM workout plan generation, standard
+            <td>Delivered a fully deployed mobile fitness app with LLM workout plan generation, standard
             workout tracking, and video form feedback via CV pose estimation. </td>
             <td>Python, OpenCV, OpenPose, Flask, Boto3, S3, ECS, NumPy, Matplotlib</td>
         </tr>
         <tr>
             <td>REST API for Pre-Trained Model Anlaysis</td>
             <td>Software Engineering</td>
+            <td>Developed Python-based CLI tool to evaluate pre-trained AI/ML models from HF and GitHub across different metrics like license compliance, code availability, performance claimes, etc.</td>
         </tr>
         <tr>
             <td>Touch Keypad Proof-of-Concept</td>
