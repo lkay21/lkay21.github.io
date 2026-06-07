@@ -36,10 +36,14 @@ title: Projects
         <tr>
             <td>User Authentication Web Application</td>
             <td>Software Engineering Tool</td>
+            <td>Full-stack Flask web application with SQLite integtration for managing user accounts and records, as well as user generated posts.</td>
+            <td>Flask, SQLite, Jinja2, HTML, Python, Javascript</td>
         </tr>
         <tr>
             <td>Chess Game in C++</td>
             <td>Object Oriented Programming</td>
+            <td>2D, vector-based chess game in C++ where each piece was its own object class while the board monitored piece lifetime and movment across different moves.</td>
+            <td>C++, OOP (inheritance, polymorphism, abstract classes...)</td>
         </tr>
         <tr>
             <td>"Precision Pulse" Embedded System Game</td>
