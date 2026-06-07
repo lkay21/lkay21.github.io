@@ -22,6 +22,14 @@ title: Projects
             <td>Python, OpenCV, OpenPose, Flask, Boto3, S3, ECS, NumPy, Matplotlib</td>
         </tr>
         <tr>
+            <td>Voice Drive Autonomous Duckiebot</td>
+            <td>Natural Language Processing</td>
+        </tr>
+        <tr>
+            <td>Trump vs. Biden Debate Chatbot System</td>
+            <td>Natural Language Processing</td>
+        </tr>
+        <tr>
             <td>REST API for Pre-Trained Model Anlaysis</td>
             <td>Software Engineering</td>
             <td>Developed Python-based CLI tool to evaluate pre-trained AI/ML models from HF and GitHub across different metrics like license compliance, code availability, performance claimes, etc.</td>
@@ -68,14 +76,6 @@ title: Projects
         <tr>
             <td>Classification and Clustering Model Analysis</td>
             <td>Python for Data Science</td>
-        </tr>
-        <tr>
-            <td>Voice Drive Autonomous Duckiebot</td>
-            <td>Natural Language Processing</td>
-        </tr>
-        <tr>
-            <td>Trump vs. Biden Debate Chatbot System</td>
-            <td>Natural Language Processing</td>
         </tr>
     </table>
     <hr>
