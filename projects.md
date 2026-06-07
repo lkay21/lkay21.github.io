@@ -30,6 +30,8 @@ title: Projects
         <tr>
             <td>Touch Keypad Proof-of-Concept</td>
             <td>Firmware Engineering Intern (Allegion)</td>
+            <td>C based, event-driven control algorithm within FreeRTOS environment for wireless application running on SiLabs MGM240s microcontrollers with mulitple integrations of component drivers and hardware peripherals.</td>
+            <td>C, FreeRTOS, SPI, I2C, Git, UART, GPIO, SiLabs/Simplicity Studio</td>
         </tr>
         <tr>
             <td>User Authentication Web Application</td>
