@@ -12,13 +12,13 @@ title: About
   <div style="text-align:center;">
     <br>
     <p>
-      Currently, I am in my final year Purdue, pursuing my B.S. in Computer Engineering with concentrations in Software Engineering and Artificial Intelligence/Machine Learning, along with a minor in Economics. In my years at Purdue, I have gained industry expereince through multiple internships, one as a Hardware Engineering Intern, and another as a Firmware Engineering Intern. These experiences, paired with my diverse skillset cultivated through my Purdue courses, have allowed me to develop a strong foundation across hardware to software. 
+      I recently graduated from Purdue, attaining my B.S. in Computer Engineering with concentrations in Software Engineering and Artificial Intelligence/Machine Learning, along with a minor in Economics. In my years at Purdue, I gained industry experience through multiple internships, one as a Hardware Engineering Intern, and another as a Firmware Engineering Intern. These experiences, paired with my diverse skillset cultivated through my Purdue courses, have allowed me to develop a strong foundation across hardware to software. 
     </p>
     <p>
-      After graduation I hope to utilize this skillset in a role that focuses on firmware engineering but yields opportunity to use and grow my knowledge in hardware and software engineering. 
+      Post-graduation I now utilize this skillset as a Firmware Engineer at Allegion, working to grow not only my knowledge and expertise in Firmware Engineering, but across the whole hardware to software spectrum.
     </p>
     <p>
-      Outside of academics and engineering, I enjoy staying active through weightlifiting and sports. I played tennis in high school and currently play for the Purdue Club Tennis Travel Team, making it my usual sport, though I also love playing basketball whenever I can. Music is another constant in my life, no matter what I am doing, there is a very high chance that I am listening to music while doing it. I love listening to all type of genres but Alternaive Rock, RnB, and Hip Hop are my main staples. 
+      Outside of being an engineer, I enjoy staying active through weightlifting and sports. I played tennis in high school and currently play in USTA Tennis Leagues, making it my usual sport, though I also love playing basketball whenever I can and am starting to get into Golf. Music is another constant in my life, no matter what I am doing, there is a very high chance that I am listening to music while doing it. I love listening to all type of genres but Alternative Rock, RnB, and Hip Hop are my main staples. 
     </p>
     <p>
       Click a button below to download my resume or explore my relevant sites!
