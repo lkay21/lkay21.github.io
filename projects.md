@@ -22,12 +22,10 @@ title: Projects
             <td>Python, OpenCV, OpenPose, Flask, Boto3, S3, ECS, NumPy, Matplotlib</td>
         </tr>
         <tr>
-            <td>Voice Drive Autonomous Duckiebot</td>
-            <td>Natural Language Processing</td>
-        </tr>
-        <tr>
             <td>Trump vs. Biden Debate Chatbot System</td>
             <td>Natural Language Processing</td>
+            <td>RAG-powered debate bot system with preprocessed and vectorized transcripts for each debator.</td>
+            <td>TF-IDF Vectorization, Cosine Similarity, Azure OpenAI, RAG, Pysttsx3, Azure STT</td>
         </tr>
         <tr>
             <td>REST API for Pre-Trained Model Anlaysis</td>
@@ -63,23 +61,9 @@ title: Projects
         <tr>
             <td>Wireless Debugging Board</td>
             <td>Hardware Engineering Intern</td>
-        </tr>
-        <tr>
-            <td>Audio Equalizer?</td>
-            <td>Electrical Engineering Fundamentals</td>
-        </tr>
-        <tr>
-            <td>Global Emergency Autonomous Response Robot</td>
-            <td>Honors Engineering - Introduction to Innovation</td>
-        </tr>
-        <tr>
-            <td>Data Driven Bridge Analysis</td>
-            <td>Python for Data Science</td>
-        </tr>
-        <tr>
-            <td>Classification and Clustering Model Analysis</td>
-            <td>Python for Data Science</td>
-        </tr>
+            <td>PCB programming board with USB-C power input to enable device debugging by receiving data over BLE and communication through UART</td>
+            <td>PCB Layout, Circuit Schematic, Altium Designer, USB-C, BLE</td>
+        </tr>    
     </table>
     <hr>
 </div>
