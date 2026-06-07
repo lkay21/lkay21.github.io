@@ -11,7 +11,6 @@ title: Happenings
     <ul>
         <li>5/14 - Graduated from Purdue University with a Bachelors of Science in Computer Engineering (Concentrations: 
         AI/ML, Software Engineering) and a Minor in Economics!</li>
-        <li>Web Portfolio is Almost Ready!</li>
-        <li>Hello World!</li>
+        <li>1/21 - Hello World!</li>
     </ul>
 </div>
