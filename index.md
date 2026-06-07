@@ -17,7 +17,7 @@ title: Logan Kay
       <div style="text-align:center; max-width:900px;">
         <h1 style="margin:0 0 8px 0;">Hello, I'm Logan Kay!</h1>
         <p style="margin:0;">
-          I'm a **Firmware Engineer** at **Allegion** passionate about solving problems at the intersection of Software and Hardware!
+          I'm a Firmware Engineer passionate about solving problems at the intersection of Software and Hardware!
         </p>
       </div>
   </div>
