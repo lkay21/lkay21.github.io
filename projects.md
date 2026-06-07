@@ -25,6 +25,7 @@ title: Projects
             <td>REST API for Pre-Trained Model Anlaysis</td>
             <td>Software Engineering</td>
             <td>Developed Python-based CLI tool to evaluate pre-trained AI/ML models from HF and GitHub across different metrics like license compliance, code availability, performance claimes, etc.</td>
+            <td>CI/CD Yaml Files, (AWS) EC2, ECS, Dynamo DB, Pytest, Logging, FastAPI, Gemini AsPI</td>
         </tr>
         <tr>
             <td>Touch Keypad Proof-of-Concept</td>
