@@ -21,7 +21,7 @@ title: About
       Outside of being an engineer, I enjoy staying active through weightlifting and sports. I played tennis in high school and currently play in USTA Tennis Leagues, making it my usual sport, though I also love playing basketball whenever I can and am starting to get into Golf. Music is another constant in my life, no matter what I am doing, there is a very high chance that I am listening to music while doing it. I love listening to all type of genres but Alternative Rock, RnB, and Hip Hop are my main staples. 
     </p>
     <p>
-      Click a button below to download my resume or explore my relevant sites! To cotact me please use the phone number of email found at the top of my resume.
+      Click a button below to download my resume or explore my relevant sites! Please use the phone number or email found at the top of my resume to contact me.
     </p>
     <br>
     <div style="display: flex; justify-content: center;" class="button-container">
