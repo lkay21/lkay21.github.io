@@ -41,7 +41,7 @@ title: Projects
         </tr>
         <tr>
             <td>User Authentication Web Application</td>
-            <td>Software Engineering Tool</td>
+            <td>Software Engineering Tools</td>
             <td>Full-stack Flask web application with SQLite integtration for managing user accounts and records, as well as user generated posts.</td>
             <td>Flask, SQLite, Jinja2, HTML, Python, Javascript</td>
         </tr>

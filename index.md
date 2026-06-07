@@ -29,7 +29,7 @@ title: Logan Kay
     <div style="display:flex; flex-direction:column; flex:1; gap:32px;">
       <div style="display: flex; justify-content: flex-end;" class="button-container">
         <button title = "Neural Nets, Reinforcement Learning, Language Processing Basics, Markov Decision Processes, Classification" >Introduction to Artificial Intelligence</button>
-        <button title = "LLMs">Natural Language Processing</button>
+        <button title = "TTS and STT Processing, Sytax and Parsing, NLP Integrated Applications">Natural Language Processing</button>
         <button title = "OOP, kNNs, PyTorch, RegEx, Probability Dist.">Python for Data Science</button>
       </div>
       <div style="display: flex; justify-content: flex-end;" class="button-container">
